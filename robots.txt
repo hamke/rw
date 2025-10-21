@@ -1,4 +1,1 @@
 User-agent: *
-Disallow: ./404.html
-Disallow: /assets/
-Disallow: /assets-frontpage/
